@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Aniyomi: hianime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.hianime",
+    "apk": "aniyomi-all.hianime-v1.0.0.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "hianime",
+        "lang": "all",
+        "id": "1234567890123456789",
+        "baseUrl": "https://hianimez.to"
+      }
+    ]
+  }
+]
